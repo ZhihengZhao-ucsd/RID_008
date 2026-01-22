@@ -1,0 +1,31 @@
+commit 7fdb31880b972c8ed1b0eac1dc9ae09aa552ed71
+Author: ZhihengZhao-UCSD <zhz215@ucsd.edu>
+Date:   Thu Jan 22 18:01:02 2026 -0500
+
+    Exercise 5
+
+commit da3cdad1b6eb30418970bd2dfb133852980ace73
+Merge: 38285fb 844adcd
+Author: ZhihengZhao-UCSD <zhz215@ucsd.edu>
+Date:   Thu Jan 22 17:54:46 2026 -0500
+
+    Merge branch 'main' of https://github.com/ZhihengZhao-ucsd/RID_008
+
+commit 38285fba5cfe5f50032245a938b112c702ecc27e
+Author: ZhihengZhao-UCSD <zhz215@ucsd.edu>
+Date:   Thu Jan 22 17:54:42 2026 -0500
+
+    exercise 5
+
+commit 844adcd95b535a1b25264f5ed02cc6155efe7c9c
+Author: Jorge <j4carmon@gmail.com>
+Date:   Thu Jan 22 14:52:19 2026 -0800
+
+    changes
+
+commit 3ebc7cb6820dddeeb8cbbe09d7c98c37f0eb02b9
+Merge: 6519d14 7c5cea7
+Author: ZhihengZhao-UCSD <zhz215@ucsd.edu>
+Date:   Thu Jan 22 17:49:39 2026 -0500
+
+    Merge branch 'main' of https://github.com/ZhihengZhao-ucsd/RID_008
